@@ -5,7 +5,8 @@
 /*  */
 
 .background-color {
-  background: #1b012b;
+  background: rgb(103,33,147);
+  background: linear-gradient(0deg, rgba(103,33,147,1) 0%, rgba(0,0,0,1) 100%);
   padding: 10px;
 }
 
